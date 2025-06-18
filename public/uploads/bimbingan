@@ -1,0 +1,2 @@
+mkdir -p public/uploads/bimbingan
+chmod -R 755 public/uploads
